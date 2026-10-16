@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📢_Pendaftaran_2026%2F2027-Dibuka-7C3AED?style=for-the-badge&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/Pendaftaran_2026%2F2027-Dibuka-7C3AED?style=for-the-badge&labelColor=4C1D95" />
 
 <br/><br/>
 
@@ -18,36 +18,36 @@
 
 <br/>
 
-## 💜 Tentang Kami
+## <img src="https://api.iconify.design/lucide/heart.svg?color=%237C3AED&height=22" align="top" /> Tentang Kami
 
 Terinspirasi dari **Ummahatul Mukminin Khadijah**, sosok Muslimah shalihah sekaligus *womenpreneur*.
 Ma'had Khadijah memadukan **tahfidz Al-Quran** dengan **kewirausahaan modern berbasis multimedia** untuk membentuk generasi Muslimah yang mandiri, berkarakter, dan unggul dalam **iman, ilmu, serta kemampuan ekonomi**.
 
 <br/>
 
-## 📚 Program Unggulan
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237C3AED&height=22" align="top" /> Program Unggulan
 
 | Program | Fokus |
 |:--|:--|
-| 📖 **Tahfidz Al-Quran** | Hafalan 30 juz · Metode Tilawati · Muraja'ah ketat · Evaluasi berkala |
-| 💼 **Kewirausahaan Syariah** | Business plan · Digital marketing · E-commerce halal |
-| 💻 **Pembelajaran Multimedia** | Smart classroom · E-learning platform · Media interaktif |
-| 🌸 **Pendidikan Akhlak** | Mentoring rutin · Character building · Program spiritual |
+| <img src="https://api.iconify.design/lucide/book-open.svg?color=%237C3AED&height=18" align="top" /> **Tahfidz Al-Quran** | Hafalan 30 juz · Metode Tilawati · Muraja'ah ketat · Evaluasi berkala |
+| <img src="https://api.iconify.design/lucide/briefcase.svg?color=%237C3AED&height=18" align="top" /> **Kewirausahaan Syariah** | Business plan · Digital marketing · E-commerce halal |
+| <img src="https://api.iconify.design/lucide/monitor.svg?color=%237C3AED&height=18" align="top" /> **Pembelajaran Multimedia** | Smart classroom · E-learning platform · Media interaktif |
+| <img src="https://api.iconify.design/lucide/sparkles.svg?color=%237C3AED&height=18" align="top" /> **Pendidikan Akhlak** | Mentoring rutin · Character building · Program spiritual |
 
 <br/>
 
-## 🏫 Fasilitas
+## <img src="https://api.iconify.design/lucide/school.svg?color=%237C3AED&height=22" align="top" /> Fasilitas
 
 | | | |
 |:--|:--|:--|
-| 🛏️ Asrama nyaman | 📚 Perpustakaan digital | 🖥️ Lab komputer & multimedia |
-| 🕌 Masjid ber-AC | 🧑‍🏫 Kelas smart board | 🥗 Kantin sehat |
-| 🌳 Area olahraga | 🏥 Klinik 24 jam | 📶 Wifi cepat |
-| 🔒 Keamanan terpadu | 👕 Laundry | 💬 Bimbingan konseling |
+| <img src="https://api.iconify.design/lucide/bed.svg?color=%237C3AED&height=18" align="top" /> Asrama nyaman | <img src="https://api.iconify.design/lucide/library.svg?color=%237C3AED&height=18" align="top" /> Perpustakaan digital | <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%237C3AED&height=18" align="top" /> Lab komputer & multimedia |
+| <img src="https://api.iconify.design/lucide/landmark.svg?color=%237C3AED&height=18" align="top" /> Masjid ber-AC | 🧑‍<img src="https://api.iconify.design/lucide/school.svg?color=%237C3AED&height=22" align="top" /> Kelas smart board | <img src="https://api.iconify.design/lucide/utensils.svg?color=%237C3AED&height=18" align="top" /> Kantin sehat |
+| <img src="https://api.iconify.design/lucide/trees.svg?color=%237C3AED&height=18" align="top" /> Area olahraga | <img src="https://api.iconify.design/lucide/hospital.svg?color=%237C3AED&height=18" align="top" /> Klinik 24 jam | <img src="https://api.iconify.design/lucide/wifi.svg?color=%237C3AED&height=18" align="top" /> Wifi cepat |
+| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%237C3AED&height=18" align="top" /> Keamanan terpadu | <img src="https://api.iconify.design/lucide/shirt.svg?color=%237C3AED&height=18" align="top" /> Laundry | <img src="https://api.iconify.design/lucide/message-circle.svg?color=%237C3AED&height=18" align="top" /> Bimbingan konseling |
 
 <br/>
 
-## 💬 Kata Mereka
+## <img src="https://api.iconify.design/lucide/message-circle.svg?color=%237C3AED&height=22" align="top" /> Kata Mereka
 
 > *"Tidak hanya menghafal Al-Quran tetapi juga belajar berbisnis. Sekarang saya memiliki bisnis online sendiri."*
 > <br/>— **Aisyah Rahman** · Alumni 2023, Owner Toko Hijab
@@ -60,7 +60,7 @@ Ma'had Khadijah memadukan **tahfidz Al-Quran** dengan **kewirausahaan modern ber
 
 <br/>
 
-## 📰 Akhbaruna
+## <img src="https://api.iconify.design/lucide/newspaper.svg?color=%237C3AED&height=22" align="top" /> Akhbaruna
 
 | Tanggal | Kabar |
 |:--|:--|
